@@ -39,5 +39,3 @@ Sure! Just make sure to properly [respect the license](LICENSE) and clearly / tr
 ### Does OpenAsar update itself?
 Yes, with a catch. On Windows it works out of the box, however on macOS or Linux you'll need to change the permissions for the entire resources folder for it to work.
 
-### is this perfect?
-no.
